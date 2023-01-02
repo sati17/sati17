@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sati17
+- 👀 I’m interested in DevOps, AWS and Python.
+- 🌱 I’m currently learning Microsoft Azure and GCP.
+- 💞️ I’m looking to collaborate on DevOps, Python and AWS.
+- 📫 How to reach me https://www.linkedin.com/in/satish-malaghan-811110ab/
+- :art: 
