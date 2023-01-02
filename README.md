@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Microsoft Azure and GCP.
 - 💞️ I’m looking to collaborate on DevOps, Python and AWS.
 - 📫 How to reach me https://www.linkedin.com/in/satish-malaghan-811110ab/
-- :art: My areas of Intrest: Writing Poem's, Quotes, Songs, Singing and Reading Novels.
+- :art: My areas of Interest: Writing Poem's, Quotes, Songs, Singing and Reading Novels.
