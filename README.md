@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satish Malaghan</h1>
 <h3 align="center">I’m interested in DevOps, AWS, Python, Azure, GCP</h3>
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1100/0*7Q3yvSIv_t0ioJ-Z.gif")
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sati17&label=Profile%20views&color=0e75b6&style=flat" alt="sati17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sati17" alt="sati17" /></a> </p>
 
 - 🌱 I’m currently learning **Python, GCP & Azure**
 
@@ -30,5 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sati17&show_icons=true&locale=en" alt="sati17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sati17&" alt="sati17" /></p>
-
 
