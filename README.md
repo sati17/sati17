@@ -1,8 +1,6 @@
-[![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 <h1 align="center">Hi 👋, I'm Satish Malaghan</h1>
 <h3 align="center">I’m interested in DevOps, AWS, Python, Azure, GCP</h3>
 (img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1100/0*7Q3yvSIv_t0ioJ-Z.gif")
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sati17&label=Profile%20views&color=0e75b6&style=flat" alt="sati17" /> </p>
@@ -21,6 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/satish-malaghan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satish-malaghan" height="30" width="40" /></a>
 <a href="https://instagram.com/satish_malaghan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satish_malaghan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/satish malaghan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="satish malaghan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sati17&show_icons=true&locale=en" alt="sati17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sati17&" alt="sati17" /></p>
+
 
