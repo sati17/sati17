@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satish Malaghan</h1>
+<h1 align="center">Namashte🙏 :pray:	, I'm Satish Malaghan</h1>
 <h3 align="center">I’m interested in DevOps, AWS, Python, Azure, GCP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sati17&label=Profile%20views&color=0e75b6&style=flat" alt="sati17" /> </p>
