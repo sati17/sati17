@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **DevOps, Python, AWS**
 
-- 📝 I regularly write [Poems, Quotes, Stories](Poems, Quotes, Stories)
+- 📝 I regularly write [Poems, Quotes, Stories]
 
 - 📫 How to reach me **https://www.linkedin.com/in/satish-malaghan-811110ab/**
 
