@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sati17&label=Profile%20views&color=0e75b6&style=flat" alt="sati17" /> </p>
 
-- 🌱 I’m currently learning **Python, GCP & Azure**
+- 🌱 I’m currently learning **JAVA, HTML, CSS & Bootstrap**
 
-- 👯 I’m looking to collaborate on **DevOps, Python, AWS**
+- 👯 I’m looking to collaborate on **AWS, DevOps, JAVA**
 
 - 📝 I regularly write [Poems, Quotes, Stories]
 
